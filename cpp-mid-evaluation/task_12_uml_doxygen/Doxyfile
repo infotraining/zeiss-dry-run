@@ -1,0 +1,8 @@
+PROJECT_NAME           = "Mid C++ Workflow"
+OUTPUT_DIRECTORY       = build/doxygen
+INPUT                  = task_12.hpp
+RECURSIVE              = NO
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+QUIET                  = YES
