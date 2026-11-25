@@ -48,3 +48,12 @@ Google Test v1.14.0 is fetched by CMake. The project requires C++23 and enables 
 10. Abstract Factory and Proxy patterns
 11. Refactoring, dependency injection, GTest, and GMock
 12. UML design diagrams and Doxygen documentation
+
+## Requirements
+
+* C++20 compiler
+* CMake 3.24 or later
+* Google Test v1.14.0 (fetched automatically by CMake)
+* Doxygen & Graphviz - required for generating documentation 
+  * https://www.doxygen.nl/download.html
+  * https://graphviz.org/download/
